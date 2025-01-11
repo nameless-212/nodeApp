@@ -1,1 +1,6 @@
+# 忽略node_modules
 node_modules
+# 忽略macos的文件
+.DS_Store
+# 忽略vscode的文件
+.vscode
